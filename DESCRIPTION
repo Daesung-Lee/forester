@@ -13,14 +13,9 @@ RoxygenNote: 7.2.3
 Imports:
     dplyr,
     ggplot2,
-    sf,
-    rlang,
-    tidyr,
-    magrittr
+    tidyr    
 Suggests: 
-    knitr,
-    rmarkdown,
-    robustbase
+    rmarkdown
 VignetteBuilder: knitr
 Depends: 
     R (>= 2.10)  
