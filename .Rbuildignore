@@ -2,3 +2,5 @@
 ^\.Rproj\.user$
 ^data-raw$
 ^R/stem_taper_loop\.R$
+^data/data1\.rda$
+^data/test1\.rda$
