@@ -1,0 +1,26 @@
+Package: forester
+Type: Package
+Title: Forest Science and Forestry
+Version: 0.1.0
+Author: Daesung Lee
+Maintainer: Daesung Lee <daesung.lee@luke.fi>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports:
+    dplyr,
+    ggplot2,
+    sf,
+    rlang,
+    tidyr,
+    magrittr
+Suggests: 
+    knitr,
+    rmarkdown,
+    robustbase
+VignetteBuilder: knitr
+Depends: 
+    R (>= 2.10)  
